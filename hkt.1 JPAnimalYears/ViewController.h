@@ -10,6 +10,11 @@
 
 @interface ViewController : UIViewController
 
+{
+    UITextField *myTextField;
+    UILabel *myLabel;
+}
+
 
 @end
 
